@@ -1,4 +1,4 @@
-# **🖥  Nexus Node Deployment Log**  
+# **🖥  Nexus Node Server Deployment Log**  
 **📅 Date:** July 12, 2025  
 **👨‍💻 SysAdmin:** Sasha Zimin  
 
