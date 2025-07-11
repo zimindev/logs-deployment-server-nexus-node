@@ -3,7 +3,7 @@
 **👨‍💻 SysAdmin:** Sasha Zimin  
 
 ### **🌐 Deployment Overview**  
-- **Project:** `prj-nexus-node`  
+- **Project:** `prj-server-nexus-node`  
 - **Role:** Central Sync Hub & Remote Access Gateway  
 - **Security:** Firewall-controlled connections  
 
@@ -51,7 +51,7 @@ graph TD
     A -->|Syncthing| E(Pulse Node)
     A -->|RDP| F[Remote Clients]
     G[UPS Battery] --> A
-    H[4G Failover Internet] --> A
+    H[Failover Internet] --> A
 ```
 
 ---
